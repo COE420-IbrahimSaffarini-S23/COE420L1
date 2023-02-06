@@ -3,8 +3,8 @@ package Lab1;
 public class Lab1Excercise {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Hellor World I am sending the document from A to B");
+		System.out.println("Hellor World I am recieving the document from A to B");
 	}
 
 }
